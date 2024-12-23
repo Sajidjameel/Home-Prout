@@ -25,7 +25,7 @@ This project highlights the advanced e-commerce features integrated into the Big
 - Implemented dynamic discount offers and promotions to enhance user engagement and drive conversions, such as seasonal discounts and special offers.
 
 ### 3. Responsive & Mobile-Optimized Design
-- Designed the platform to be fully responsive, ensuring a consistent and optimized shopping experience across mobile, tablet, and desktop devices.
+- Designed the platform to be fully responsive, ensuring a consistent and optimized shopping experience across mobile, tablet and desktop devices.
 
 ### 4. Secure Checkout Process
 - Integrated trusted payment gateways to provide a secure, hassle-free checkout process, improving customer confidence and increasing transaction success rates.
