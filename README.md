@@ -64,10 +64,6 @@ This project highlights the advanced e-commerce features integrated into the Big
 ![REST API](https://img.shields.io/badge/REST%20API-005C84?style=for-the-badge&logo=api&logoColor=white)&nbsp;
 
 
-**Performance Optimization:**  
-⚡️ Priority Hints  
-
-
 ## My Role in Development
 
 As the lead developer of the HOMESPROUT platform, I was responsible for:
